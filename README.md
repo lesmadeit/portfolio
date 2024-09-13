@@ -2,7 +2,7 @@
 
 ## Index Page
 
-This is the first page that a user finds on the website.  The index.html has my picture and my overall career alignment. It also has a link to my LinkedIn profile and my other social media pages
+This is the first page that a user finds on the website.  The index.html has my picture and my overall career alignment. It also has a link to my LinkedIn profile and my other social media pages.
 
 ## About Page
 
